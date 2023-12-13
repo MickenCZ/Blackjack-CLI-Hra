@@ -10,3 +10,4 @@ Linux/MacOS
 ```bash
 python3 blackjack.py
 ```
+Eso má cenu 11, Král, Královna a Janek mají cenu 1 a čísla mají cenu svého čísla.
